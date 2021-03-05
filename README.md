@@ -2,9 +2,6 @@
 ### Hi there 👋 Welcome To My Github Profile
 ## I'm a Developer & Computer Engineering 
 
-<!--
-**Yuvraj085/Yuvraj085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm a Developer & Computer Engineering 
 
 - 🔭 I’m currently working on My Project Omega Server ...
