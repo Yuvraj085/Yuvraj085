@@ -1,5 +1,5 @@
 
-### Hi there 👋 Welcome To My Github Profile
+### Hi there 👋
 
 ## I'm a Developer & Computer Engineering 
 
@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Contribute More To Open Source Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 🥅2021 Goals Complete My Project 
+- 🥅 2021 Goals Complete My Project 
 - :) Creative 
 - Photography 📷📸 Lover
 - ⚡ Fun fact: Playing Games,Live Stream :)
