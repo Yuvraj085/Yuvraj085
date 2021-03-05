@@ -9,8 +9,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 🥅2021 Goals Complete My Project 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - :) Creative 
 - Photography 📷📸 Lover
 - ⚡ Fun fact: Playing Games,Live Stream :)
@@ -36,4 +34,3 @@
 <details>
   <img align="left" alt="Yuvraj085 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yuvraj085&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" style="max-width:100%;">
 
-  :)
