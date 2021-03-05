@@ -5,6 +5,7 @@
 **Yuvraj085/Yuvraj085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## I'm a Developer & Computer Engineering 
 
 - 🔭 I’m currently working on My Project Omega Server ...
 - 🌱 I’m currently learning Lua,C,C++ ...
