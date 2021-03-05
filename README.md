@@ -1,4 +1,4 @@
-![1200px-Lua-Logo svg](https://user-images.githubusercontent.com/72809460/110150229-05130180-7e05-11eb-8cbe-26cd4a7549c6.png)
+
 ### Hi there 👋
 
 <!--
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/https:/72809460/110151279-4d7eef00-7e06-11eb-8169-557ae068c6bb.png/topics/lua/1200px-Lua-Logo.svg.png" />
 
 
 
