@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-## I'm a Developer & Computer Engineering 
+## I'm a Computer Engineering 
 
 - 🔭 I’m currently working on My Project Omega Server ...
 - 🌱 I’m currently learning C,C++,Java,Python,Lua ...
