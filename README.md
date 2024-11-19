@@ -1,5 +1,5 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on My Project Omega Server RP ...
+- 🔭 I’m currently working on My Project Shadow Pegasus Roleplay Server ...
 - :) Creative 
